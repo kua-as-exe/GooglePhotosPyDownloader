@@ -1,5 +1,8 @@
 Google\ Photos/
 credentials.json
+.token
+downloads
+asd.json
 **checkpoint**
 **token**
 **.pickle

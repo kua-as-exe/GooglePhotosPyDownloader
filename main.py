@@ -5,7 +5,7 @@ import requests # pip install requests
 
 from google_auth_oauthlib.flow import Flow, InstalledAppFlow
 from googleapiclient.discovery import build
-from googleapiclient.http import MediaFileUpload
+# from googleapiclient.http import MediaFileUpload
 from google.auth.transport.requests import Request
 
 from tqdm import tqdm
